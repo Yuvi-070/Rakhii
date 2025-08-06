@@ -1,5 +1,6 @@
+
 .container {
-  width: 80%; /* or any other width you prefer */
+  width: 100%; /* or any other width you prefer */
   margin: 0 auto;
   padding: 20px;
 }
@@ -27,6 +28,7 @@
    transition: opacity 3s ease;
 }
 /* From Uiverse.io by FColombati */ 
+/* From Uiverse.io by FColombati */ 
 .article {
   --fur: #aac;
   --detail: #222;
@@ -45,7 +47,7 @@
     radial-gradient(at 45% 40%, #fff6, #fff0 70%);
   position: relative;
   font-size: 1vmin;
-  width: 80em;
+  width: 100%;
   aspect-ratio: 1;
   transform: scale(0.5);
   animation: floating 5s ease-in-out infinite;
